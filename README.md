@@ -30,4 +30,6 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 
 ### Nested Function
 
+### The keyword nonlocal and nested functions
+
 

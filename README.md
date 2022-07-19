@@ -25,3 +25,5 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 2. local scope: inside the function body and can not be accessed outside of the function defination.
 
 3. Builtin scope: module, builtin functions from modules. Print(), sum()
+
+##### keyword global & nonlocal

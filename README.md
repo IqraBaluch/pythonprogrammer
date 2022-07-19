@@ -27,3 +27,7 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 3. Builtin scope: module, builtin functions from modules. Print(), sum()
 
 ##### keyword global & nonlocal
+
+### Nested Function
+
+

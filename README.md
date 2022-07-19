@@ -12,3 +12,16 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 - Exploratory Analysis with PostgreSQL 
 
 - Exploratory Analysis (R or Python) 
+
+
+# Chapter 3 Part 2
+
+### Default arguments, variable-length arguments and scope
+
+##### Types of scops
+
+1. Global scope : object/variable out side of function. in the main body of the script
+
+2. local scope: inside the function body and can not be accessed outside of the function defination.
+
+3. Builtin scope: module, builtin functions from modules. Print(), sum()

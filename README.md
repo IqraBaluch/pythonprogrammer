@@ -32,6 +32,8 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 
 ### The keyword nonlocal and nested functions
 
+### Functions with one default argument
+
 ### Functions with multiple default arguments
 
 ### Functions with variable-length arguments (*args)

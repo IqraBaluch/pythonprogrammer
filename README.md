@@ -37,3 +37,11 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 ### Functions with multiple default arguments
 
 ### Functions with variable-length arguments (*args)
+
+# Chapter 3 part 3
+
+### lambda functions
+
+#### Map() and lambda functions
+
+#### Filter() and lambda functions

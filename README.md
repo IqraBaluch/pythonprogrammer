@@ -45,3 +45,5 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 #### Map() and lambda functions
 
 #### Filter() and lambda functions
+
+### Reduce() and lambda functions

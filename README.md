@@ -38,7 +38,7 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 
 ### Functions with variable-length arguments (*args)
 
-# Chapter 3 part 3
+# Chapter 3 part 3.  [ Lambda functions ]
 
 ### lambda functions
 

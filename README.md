@@ -47,3 +47,7 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 #### Filter() and lambda functions
 
 ### Reduce() and lambda functions
+
+### Introduction to error handling
+
+### Error handling with try-except

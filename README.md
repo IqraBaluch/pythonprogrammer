@@ -56,3 +56,6 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 ![image](https://user-images.githubusercontent.com/57810189/180229402-b0c89cda-06ca-49fe-947a-2dd35a50b70d.png)
 
 # Chapter4 (Python Data Science Toolbox (Part 2)) | Part1 Using iterators in PythonLand
+
+1. Iterating with a for loop
+2. 

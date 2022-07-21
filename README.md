@@ -51,3 +51,5 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 ### Introduction to error handling
 
 ### Error handling with try-except
+
+### Error handling by raising an error

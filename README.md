@@ -53,3 +53,6 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 ### Error handling with try-except
 
 ### Error handling by raising an error
+![image](https://user-images.githubusercontent.com/57810189/180229402-b0c89cda-06ca-49fe-947a-2dd35a50b70d.png)
+
+# Chapter 4 Part 2

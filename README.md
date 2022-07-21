@@ -14,7 +14,7 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 - Exploratory Analysis (R or Python) 
 
 
-# Chapter 3 Part 2
+# Chapter3 (Python Data Science Toolbox (Part 1)) | Part 2
 
 ### Default arguments, variable-length arguments and scope
 
@@ -55,4 +55,4 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 ### Error handling by raising an error
 ![image](https://user-images.githubusercontent.com/57810189/180229402-b0c89cda-06ca-49fe-947a-2dd35a50b70d.png)
 
-# Chapter 4 Part 2
+# Chapter4 (Python Data Science Toolbox (Part 2)) | Part1 Using iterators in PythonLand

@@ -57,5 +57,11 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 
 # Chapter4 (Python Data Science Toolbox (Part 2)) | Part1 Using iterators in PythonLand
 
-1. Iterating with a for loop
-2. 
+1. Iterating over iterables (with a for loop)
+2. Iterating over iterables iter() & next()
+3. Iterators as function arguments
+4. enumerate() , zip(), 
+5. Using * and zip to 'unzip'
+
+#### Using iterators to load large files into memory
+5. 

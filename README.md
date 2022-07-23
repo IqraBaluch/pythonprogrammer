@@ -73,6 +73,7 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 ## 2-List comprehensions and generators
 1. list comprehension
 2. list comprehension with range()
-3. list comprehension instead of nested for loop
-4. 
+3. List comprehension over iterables
+4. list comprehension instead of nested for loop
+5. 
 

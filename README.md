@@ -64,4 +64,6 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 5. Using * and zip to 'unzip'
 
 #### Using iterators to load large files into memory
-5. 
+6. Processing large amounts of Twitter data
+7. Extracting information for large amounts of Twitter data
+

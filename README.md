@@ -71,3 +71,6 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 
 
 ## 2-List comprehensions and generators
+1. list comprehension
+2. list comprehension with range()
+

@@ -55,7 +55,8 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 ### Error handling by raising an error
 ![image](https://user-images.githubusercontent.com/57810189/180229402-b0c89cda-06ca-49fe-947a-2dd35a50b70d.png)
 
-# Chapter4 (Python Data Science Toolbox (Part 2)) | Part1 Using iterators in PythonLand
+# Chapter4 (Python Data Science Toolbox (Part 2)) 
+## 1-Using iterators in PythonLand
 
 1. Iterating over iterables (with a for loop)
 2. Iterating over iterables iter() & next()
@@ -67,3 +68,4 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 6. Processing large amounts of Twitter data
 7. Extracting information for large amounts of Twitter data
 
+## 2-List comprehensions and generators

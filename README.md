@@ -88,4 +88,4 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 8. List comprehensions vs. generators
 9. Writing generator expressions
 10. Changing the output in generator expressions
-11. 
+11. Build a generator

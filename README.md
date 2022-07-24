@@ -91,3 +91,6 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 11. Build a generator
 12. List comprehensions for time-stamped data
 13. Conditional list comprehensions for time-stamped data
+
+## 3-Welcome to the case study!
+

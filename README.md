@@ -89,3 +89,5 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 9. Writing generator expressions
 10. Changing the output in generator expressions
 11. Build a generator
+12. List comprehensions for time-stamped data
+13. Conditional list comprehensions for time-stamped data

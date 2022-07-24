@@ -94,3 +94,7 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 
 ## 3-Welcome to the case study!
 
+14. Dictionaries for data science
+15. Writing a function to help you
+16. 
+

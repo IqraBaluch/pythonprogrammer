@@ -98,7 +98,7 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 15. Writing a function to help you
 16. Turn a bunch of lists into a list of dictionaries with the help of a list comprehension
 17. Turning this all into a DataFrame
-18. 
+18. Using Python generators for streaming data
 
 
 

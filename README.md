@@ -100,7 +100,10 @@ In this track, you’ll learn how to manipulate data, write efficient Python cod
 17. Turning this all into a DataFrame
 18. Using Python generators for streaming data
 19. Processing data in chunks (1)
-20. 
+20. Writing a generator to load data in chunks (2)
+21. Writing a generator to load data in chunks (3)
+
+
 
 
 
